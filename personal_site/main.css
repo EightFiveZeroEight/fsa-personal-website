@@ -1,0 +1,16 @@
+/* The rules below are there to make sure
+that no unintended rulings are
+in effect. */
+* {
+    box-sizing: border-box;
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+    /* establishing a discord color pallete
+    since I think they have an amazing
+    darkmode aesthetic. */
+    background-color: #23272a;
+    color: #99aab5;
+}
+
