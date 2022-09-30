@@ -1,3 +1,17 @@
 /* Everything up until the next comment
 will be dealing with the header stylings */
 
+.header {
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    align-content: space-around;
+}
+
+
+
+.headerIcon{
+    margin: 1rem;
+}
+
