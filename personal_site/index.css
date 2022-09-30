@@ -13,5 +13,6 @@ will be dealing with the header stylings */
 
 .headerIcon{
     margin: 1rem;
+    border-radius: 100%;
 }
 
