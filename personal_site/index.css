@@ -9,7 +9,41 @@ will be dealing with the header stylings */
     align-content: space-around;
 }
 
+.headerNav > a {
+    background-color: #2c2f33;
+    color: #7289da;
+    padding: .5em;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    display: inline-block;
+}
 
+.headerNav > span {
+    background-color: #99aab5;
+    color: #2c2f33;
+    padding: .5em;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    display: inline-block;
+}
+
+.headerNav > a:hover {
+    background-color: #99aab5;
+    color: #2c2f33;
+    padding: .5em;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    display: inline-block;
+}
 
 .headerIcon{
     margin: 1rem;
