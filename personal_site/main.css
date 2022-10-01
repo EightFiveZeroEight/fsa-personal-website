@@ -80,3 +80,10 @@ will be dealing with the header stylings
     border-radius: 100%;
 }
 
+/* 
+/////////////////////////////////
+Main 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ */
+.main {
+    display: flex;
+}
