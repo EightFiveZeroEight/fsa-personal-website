@@ -48,6 +48,7 @@ will be dealing with the header stylings
     align-items: center;
     flex-direction: row;
     display: inline-block;
+    margin-bottom: 2rem;
 }
 
 .headerNav > span {
