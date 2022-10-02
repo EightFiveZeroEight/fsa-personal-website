@@ -10,6 +10,10 @@
     
 }
 
+.mainSection {
+    width: 100vw;
+}
+
 .cardBody {
 
     display: flex;

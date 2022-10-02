@@ -102,6 +102,18 @@ Main
     background-color: #7289da;
 }
 
+.mainRightImg,
+.mainLeftImg {
+    width: 20%;
+    height: 80%;
+}
+
+main {
+    width: 100%;
+    height: 100%;
+}
+
+
 .mainCard {
     display: flex;
     flex-direction: row;
