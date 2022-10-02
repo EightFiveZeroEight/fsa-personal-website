@@ -39,8 +39,8 @@ will be dealing with the header stylings
 }
 
 .headerGreeting {
+/* Giving a softer font to headers. */
     font-family: "Lucida Console", "Courier New", monospace;
-
 }
 
 .headerNav > a {
@@ -91,6 +91,8 @@ Main
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ */
 .main {
     display: flex;
+    width: 100%;
+    height: 100%;
 }
 
 .cardSide {
@@ -107,12 +109,6 @@ Main
     width: 20%;
     height: 80%;
 }
-
-main {
-    width: 100%;
-    height: 100%;
-}
-
 
 .mainCard {
     display: flex;

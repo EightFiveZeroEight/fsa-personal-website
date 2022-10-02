@@ -1,20 +1,6 @@
-
-
-.videoBlock {
-    justify-content: center;
-}
-
-.card {
-    display: flex;
-    flex-direction: column;
-    
-}
-
 .mainSection {
+    /* Adding this to keep the PersonalProjects.html 'main' from
+    collapsing; I don't know why this page specifically
+    will. Should debug that if I had more time, but I have military training this week adn not as much time to actually go through and debug.*/
     width: 100vw;
-}
-
-.cardBody {
-
-    display: flex;
 }

@@ -1,10 +1,14 @@
 .main {
+/* Overwriting the main.css file for this page,
+since the about.html doesn't use column images. */
     display: flex;
     flex-direction: column;
     max-width: 50vw;
 }
 
 .main > h2 {
+    /* The goal here is to make the main h2
+    element look unique. */
     text-align: center;
     background-color: #494f53;
     color: #23272A;
@@ -14,6 +18,8 @@
 }
 
 .main > p {
+    /* Wanted to give the left side of the paragraph
+    a little left border. */
     margin-top: 1.5em;
     border-left: 2px solid;
     margin-bottom: 1em;
