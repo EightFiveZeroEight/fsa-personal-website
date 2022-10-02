@@ -2,7 +2,7 @@
 --
 This should be a simple prototype portfolio website; the goal of this project for me is to experiement with some CSS and HTML elements, and practice writing good commit messages all the while respecting the rubric below. --
 
-
+https://eightfivezeroeight.github.io/fsa-personal-website
 
 
  [] Three Pages: The website features at least three pages (Home, About, Projects). --
