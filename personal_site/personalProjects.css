@@ -1,0 +1,16 @@
+
+
+.videoBlock {
+    justify-content: center;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.cardBody {
+
+    display: flex;
+}

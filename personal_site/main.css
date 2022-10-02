@@ -38,6 +38,11 @@ will be dealing with the header stylings
     align-content: space-around;
 }
 
+.headerGreeting {
+    font-family: "Lucida Console", "Courier New", monospace;
+
+}
+
 .headerNav > a {
     background-color: #2c2f33;
     color: #7289da;
@@ -87,3 +92,54 @@ Main
 .main {
     display: flex;
 }
+
+.cardSide {
+    margin-left: 2em;
+    margin-right: .5vh;
+    border-left:  .3em solid	#606cab;
+    border-right: .3em solid #9ca1b0;
+    width: 2em; 
+    background-color: #7289da;
+}
+
+.mainCard {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 1em;
+    margin-top: 3em;
+    max-width: 80%;
+}
+
+.cardBody {
+    margin-left: 1em;
+}
+
+.queen {
+    text-decoration: line-through;
+}
+
+.oops {
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 1em;
+    text-decoration: none;
+    
+}
+
+.bullets {
+    padding-left: 3em;
+}
+
+.link {
+    text-decoration: underline;
+    color: #7289da;
+    background-color: #232526;
+    padding: .5em;
+    border-radius: 5px;
+
+}
+
+h2 {
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
